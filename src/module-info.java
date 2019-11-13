@@ -1,2 +1,4 @@
-module javarepo {
+module javarepo
+{
+	String test = "testing 123";
 }
